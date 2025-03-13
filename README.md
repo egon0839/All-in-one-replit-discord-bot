@@ -1,2 +1,2 @@
-# All-in-one-replit-discord-bot
-Just an all in one discord bot for replit.
+# Mino-Music-Discord-Bot
+A Advance Discord Bot With Music , Moderation , Giveaways Etc
